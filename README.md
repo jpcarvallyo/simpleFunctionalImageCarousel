@@ -1,2 +1,0 @@
-# simpleFunctionalImageCarousel
-Created with CodeSandbox
